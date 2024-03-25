@@ -2,7 +2,7 @@
 
 ## About the repo
 
-The repo contains code for a project in my MSc course, which explains what I have done in my MSc programme.
+The repo contains code for a project in my MSc course, which explains what I have done as part of the programme.
 
 ## Content
 
@@ -21,4 +21,4 @@ Here is a list of related research studies focusing on online editorial activiti
 ## Note
 
 - The code is written to solve particular problems which cannot be shared. Also, the repo **does not** contain data provided by the school, as sharing the data is not permitted.
-- When solving the problem, we can only use simple modules such as `pickle`, `random`, `datetime`, and the packages `numpy`, `matplotlib`, and `seaborn`** for practice of writing code. We can NOT use advanced data processing packages such as `pandas`, `networkx`, `scikitlearn`, etc.
+- When solving the problem, we can only use simple modules such as `pickle`, `random`, `datetime`, and the packages `numpy`, `matplotlib`, and `seaborn`** to practice writing code. We can NOT use advanced data processing packages such as `pandas`, `networkx`, `scikitlearn`, etc.
