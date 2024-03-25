@@ -16,7 +16,11 @@ Here is a list of related research studies focusing on online editorial activiti
 
 ### Code structure
 
-(TBU)
+- `output.ipynb`: A notebook contains the final output of the analysis
+- `/module/create_network.py`: A module to create a network data for the analysis
+- `/module/find_revert_back.py`: A module to find mutual reverts in Wikipedia articles
+- `/module/calculate_similarity.py`: A module to calculate the similarity of edit activities
+- `/module/visualise.py`: A module to visualise the output of the analysis
 
 ### Coding environment
 
