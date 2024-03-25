@@ -2,7 +2,7 @@
 
 ## About the repo
 
-The repo contains code for a project in my MSc course, which explains what I have done as part of the programme.
+The repo contains code for a project in my MSc course, which explains what I have done as part of the programme (and which is hopefully helpful for showing my ability of intermediate coding skills).
 
 ## Content
 
@@ -17,6 +17,10 @@ Here is a list of related research studies focusing on online editorial activiti
 ### Code structure
 
 (TBU)
+
+### Coding environment
+
+I used Poetry to manage the Python environment. The `pyproject.toml` file contains the dependencies and the Python version used in the project.
 
 ## Note
 
